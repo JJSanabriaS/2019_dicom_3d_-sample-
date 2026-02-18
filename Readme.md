@@ -1,7 +1,3 @@
-gui suite for biomedic profesional (dentist)
-
-coded on python 
-
 
 
 # GUI Suite for Dental 3D Data Management
